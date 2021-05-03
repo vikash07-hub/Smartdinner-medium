@@ -1,0 +1,16 @@
+.button-row {
+  width: 100%;
+  height: 50px;
+}
+.col30 {
+  width: 30%;
+}
+.details {
+  width: 100%;
+}
+.col90 {
+  width: 70%;
+}
+.det {
+  background-color: blue;
+}
